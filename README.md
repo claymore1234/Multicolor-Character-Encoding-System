@@ -14,9 +14,9 @@ Met hulp van AI (ChatGPT)
 - `README.md`: Dit bestand (projectoverzicht)
 
 ## Licentie
-Dit project valt onder de Creative Commons BY-NC 4.0 licentie.
 
-- Vrij gebruik en bewerking met naamsvermelding
-- Commercieel gebruik verboden zonder schriftelijke toestemming
+- De broncode in deze repository valt onder de [MIT-licentie](LICENSE).
+- De documentatie (`docs/Multicolor_Tekenvoorstel.pdf`) valt onder een [Creative Commons BY-NC 4.0-licentie](https://creativecommons.org/licenses/by-nc/4.0/deed.nl).
 
-Meer info: https://creativecommons.org/licenses/by-nc/4.0/
+Je mag dit materiaal gebruiken voor niet-commerciële doeleinden, mits correcte bronvermelding.
+Voor commercieel gebruik neem contact op met de auteurs.
